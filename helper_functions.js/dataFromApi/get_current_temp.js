@@ -61,3 +61,5 @@ export function getDataFromWdata(data, unit){
   temp_max = tempIndegree(temp_max, unit)
   return { windSpeed, humidity, visibility, temp_max, temp_min }
 }
+
+//test
